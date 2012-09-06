@@ -87,7 +87,7 @@ There is a slightly more fancy example included in this package under
 example which might get you some ideas. It's a fully working chat
 application that just works.
 
-This package is built mainly on `Serve Koval
+This package is built mainly on `Serge Koval
 <https://github.com/mrjoes>`_'s amazing work on `sockjs-tornado
 <https://github.com/mrjoes/sockjs-tornado>`_ which has lots of more
 examples and documentation that might help you. For example, it lists
