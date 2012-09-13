@@ -1,2 +1,2 @@
-django
-sockjs-tornado
+Django==1.4
+sockjs-tornado==0.0.4
